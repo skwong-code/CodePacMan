@@ -13,3 +13,13 @@ This epic more than likely will be divided into smaller User Stories, to hammer 
 ________________________________________
 This is actually Learning project that is a part of the MIT Xpro Program for Profession Certificate in Coding with MERN.
 
+
+# <h2>Run
+
+Make sure you have NPM installed and the web server installed
+
+npm install http-server -g
+
+Start the webserver 
+
+http-server
